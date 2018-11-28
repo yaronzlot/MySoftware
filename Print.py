@@ -2,7 +2,7 @@
 class Print:
 
     def click(self):
-        print("Click1")
+        print("Click")
 
     def welocome(self):
         print("New Screen")
